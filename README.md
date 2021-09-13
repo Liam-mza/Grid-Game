@@ -1,21 +1,22 @@
 # Grid-Game
 A grid game in the style of Pokemon ! Done as a first year mini-project in 2018
 
-HOW TO LAUNCH
+# HOW TO LAUNCH
 
 To launch the game, run the java/ch/epfl/cs107/play/Play.java file. 
-To choose the game that you wish to run, change the code “final Game game = new Enigme();” at line 31 to “final Game game = new NameOfGame();” with “NameOfGame” the name of the game that you wish to run. If it's your first game you don't have to change anything.
+
+*To choose the game that you wish to run, change the code “final Game game = new Enigme();” at line 31 to “final Game game = new NameOfGame();” with “NameOfGame” the name of the game that you wish to run. If it's your first game you don't have to change anything.
 
 # CONTROLS
 
-LEFT: go left 
-RIGHT: go right 
-UP: go up 
-DOWN: go down 
-S: sprint 
-L: interact 
-B: pause the game 
-W: resume the game / close dialog
+LEFT: go left   
+RIGHT: go right   
+UP: go up   
+DOWN: go down   
+S: sprint    
+L: interact   
+B: pause the game   
+W: resume the game / close dialog   
 
 # WALKTHROUGH
 
