@@ -32,6 +32,6 @@ W: resume the game / close dialog
 
 All of the images used in the game were created by Kenney Studio : Link to the website : https://kenney.nl/
 
-Done in collaboration with Delacourt Remi for Introduction to programming course of Jamila Sam in 2018.
+Done in collaboration with Delacourt Remi for the "Introduction to programming" course of Jamila Sam in 2018.
 
 ENJOY THE GAME!!
